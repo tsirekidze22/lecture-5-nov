@@ -3,6 +3,12 @@ body{
 	height: 1900px;
 }
 
+.container{
+	width: 1160px;
+	border: 2px solid blue;
+	margin: 80px auto;
+}
+
 /*.subheader{
 	background-color: blue;
 	height: 40px;
